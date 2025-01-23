@@ -4,7 +4,7 @@
 
 <p>Jumpstart is a crowdfunding platform designed to enable users to easily launch campaigns and gain support for their projects.</p>
 
-<p>Built with ReactJS for a responsive and interactive frontend, along with Bootstrap and HTML5/CSS for a rich user interface. Utilized PostgreSQL for secure and fast data storage and Supabase for authentication.</p>
+<p>Built with ReactJS for a responsive and interactive frontend, along with Bootstrap and HTML5/CSS for a rich user interface. Integrated Supabase for PostgreSQL data storage and authentication.</p>
 
 
 ## Discover Projects
